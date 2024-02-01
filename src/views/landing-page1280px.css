@@ -23,7 +23,7 @@
   padding: 10px;
   position: relative;
   align-self: stretch;
-  text-shadow: rgb(254, 219, 29) -10px -10px 0px 0px, rgb(0, 0, 0) 10px 10px 0px 10px;
+  text-shadow: -10px -10px 0px rgb(254, 219, 29), 10px 10px 0px rgb(0, 0, 0);
   align-items: flex-start;
   flex-shrink: 0;
   justify-content: center;
