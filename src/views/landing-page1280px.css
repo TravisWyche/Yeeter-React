@@ -34,7 +34,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 200px;
-  text-shadow: -10px -10px rgb(254, 219, 29);
+  text-shadow: -10px -10px rgb(254, 219, 29), 10px 10px black;
   font-style: Black;
   text-align: center;
   font-family: "Poppins";
@@ -49,6 +49,7 @@
   gap: 10px;
   display: flex;
   padding: 10px;
+  text-shadow: -10px -10px rgb(254, 219, 29), 10px 10px black;
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
@@ -61,6 +62,7 @@
   font-size: 100px;
   font-style: Black;
   text-align: center;
+  text-shadow: -10px -10px rgb(254, 219, 29), 10px 10px black;
   font-family: "Poppins";
   font-weight: 900;
   line-height: 100%;
@@ -146,6 +148,7 @@
   font-style: Black;
   text-align: center;
   font-family: Poppins;
+  text-shadow: -10px -10px rgb(254, 219, 29), 10px 10px black;
   font-weight: 900;
   line-height: 100%;
   font-stretch: normal;
@@ -157,6 +160,7 @@
   padding: 40px 20px;
   align-self: stretch;
   align-items: center;
+  text-shadow: -10px -10px rgb(254, 219, 29), 10px 10px black;
   flex-shrink: 0;
   justify-content: center;
 }
@@ -164,6 +168,7 @@
   color: rgb(254, 219, 29);
   height: auto;
   flex-grow: 1;
+  text-shadow: -10px -10px rgb(254, 219, 29), 10px 10px black;
   font-size: 80px;
   font-style: Black;
   text-align: center;
@@ -186,6 +191,7 @@
   gap: 10px;
   display: flex;
   padding: 10px;
+  text-shadow: -10px -10px rgb(254, 219, 29), 10px 10px black;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
@@ -412,6 +418,7 @@
   gap: 40px;
   display: flex;
   padding: 40px 20px;
+  text-shadow: -10px -10px rgb(254, 219, 29), 10px 10px black;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
