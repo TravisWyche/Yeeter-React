@@ -9,7 +9,7 @@
 .landing-page1280px-landing-page1280px {
   gap: 10px;
   width: 100%;
-  height: auto;
+  height: 100%;
   display: flex;
   align-items: center;
   flex-shrink: 0;
@@ -24,10 +24,10 @@
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
-  border-color: var(--dl-color-gray-black);
-  border-width: 1px;
   flex-direction: row;
   justify-content: center;
+  webkit-text-stroke-width: 1px;
+  webkit-text-stroke-color: black;
 }
 .landing-page1280px-text {
   color: rgb(240, 152, 198);
@@ -40,8 +40,6 @@
   font-family: "Poppins";
   font-weight: 900;
   line-height: 100%;
-  border-color: var(--dl-color-gray-black);
-  border-width: 1px;
   font-stretch: normal;
   text-decoration: none;
 }
