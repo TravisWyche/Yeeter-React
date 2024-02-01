@@ -34,7 +34,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 200px;
-  box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+  text-shadow: -10px -10px rgb(254, 219, 29);
   font-style: Black;
   text-align: center;
   font-family: "Poppins";
@@ -83,7 +83,7 @@
   height: 300px;
   display: flex;
   padding: 10px;
-  box-shadow: -10px -10px 0px 0px rgba(254, 219, 29, 1) ;
+  text-shadow: -10px -10px rgba(254, 219, 29, 1);
   align-items: center;
   flex-shrink: 0;
   border-radius: 500px;
@@ -120,7 +120,7 @@
   height: 300px;
   display: flex;
   padding: 10px;
-  box-shadow: -10px -10px 0px 0px rgba(254, 219, 29, 1) ;
+  text-shadow: -10px -10px rgba(254, 219, 29, 1) ;
   align-items: center;
   flex-shrink: 0;
   border-radius: 500px;
@@ -196,7 +196,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 140px;
-  box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+  text-shadow: -10px -10px rgb(254, 219, 29);
   font-style: Black;
   text-align: center;
   font-family: "Poppins";
@@ -230,7 +230,7 @@
   flex-grow: 1;
   font-size: 32px;
   align-self: center;
-  box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+  text-shadow: 5px 5px rgb(0, 0, 0);
   font-style: Black;
   text-align: left;
   font-family: "Poppins";
@@ -245,7 +245,7 @@
   display: flex;
   overflow: hidden;
   position: relative;
-  box-shadow: 10px 10px 0px 10px rgba(0, 0, 0, 1) ;
+  text-shadow: 10px 10px rgba(0, 0, 0, 1) ;
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 500px;
@@ -275,7 +275,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 140px;
-  box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+  text-shadow: -10px -10px rgb(254, 219, 29);
   font-style: Black;
   text-align: center;
   font-family: "Poppins";
@@ -301,7 +301,7 @@
   display: flex;
   overflow: hidden;
   position: relative;
-  box-shadow: 10px 10px 0px 10px rgba(0, 0, 0, 1) ;
+  text-shadow: 10px 10px rgba(0, 0, 0, 1) ;
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 500px;
@@ -321,7 +321,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 32px;
-  box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 1) ;
+  text-shadow: 5px 5px rgba(0, 0, 0, 1) ;
   font-style: Black;
   text-align: left;
   font-family: Poppins;
@@ -353,7 +353,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 140px;
-  box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+  text-shadow: -10px -10px rgb(254, 219, 29);
   font-style: Black;
   text-align: center;
   font-family: "Poppins";
@@ -386,7 +386,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 32px;
-  box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 1) ;
+  text-shadow: 5px 5px rgba(0, 0, 0, 1) ;
   font-style: Black;
   text-align: left;
   font-family: Poppins;
@@ -401,7 +401,7 @@
   display: flex;
   overflow: hidden;
   position: relative;
-  box-shadow: 10px 10px 0px 10px rgba(0, 0, 0, 1) ;
+  text-shadow: 10px 10px rgba(0, 0, 0, 1) ;
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 500px;
@@ -422,7 +422,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 80px;
-  box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+  text-shadow: 10px 10px rgb(0, 0, 0);
   font-style: Black;
   text-align: center;
   font-family: "Poppins";
@@ -456,7 +456,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 120px;
-  box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+  text-shadow: 10px 10px rgb(0, 0, 0);
   font-style: normal;
   text-align: center;
   font-family: "Poppins";
@@ -478,7 +478,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 120px;
-  box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+  text-shadow: 10px 10px rgb(0, 0, 0);
   font-style: normal;
   text-align: center;
   font-family: "Poppins";
@@ -500,7 +500,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 120px;
-  box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+  text-shadow: 10px 10px rgb(0, 0, 0);
   text-align: center;
   font-family: "Poppins";
   font-weight: 900;
@@ -521,7 +521,7 @@
   height: auto;
   flex-grow: 1;
   font-size: 120px;
-  box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+  text-shadow: 10px 10px rgb(0, 0, 0);
   text-align: center;
   font-family: "Poppins";
   font-weight: 900;
@@ -531,7 +531,7 @@
   .landing-page1280px-text {
     color: rgb(240, 152, 198);
     font-size: 150px;
-    box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+    text-shadow: -10px -10px rgb(254, 219, 29);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -591,7 +591,7 @@
   .landing-page1280px-text19 {
     color: rgb(240, 152, 198);
     font-size: 80px;
-    box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+    text-shadow: -10px -10px rgb(254, 219, 29);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -601,7 +601,7 @@
   .landing-page1280px-text20 {
     color: rgb(255, 255, 255);
     font-size: 24px;
-    box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+    text-shadow: 5px 5px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 120%;
@@ -614,7 +614,7 @@
   .landing-page1280px-text21 {
     color: rgb(240, 152, 198);
     font-size: 80px;
-    box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+    text-shadow: -10px -10px rgb(254, 219, 29);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -627,7 +627,7 @@
   .landing-page1280px-text22 {
     color: rgb(255, 255, 255);
     font-size: 24px;
-    box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+    text-shadow: 5px 5px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 120%;
@@ -636,7 +636,7 @@
   .landing-page1280px-text23 {
     color: rgb(240, 152, 198);
     font-size: 80px;
-    box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+    text-shadow: -10px -10px rgb(254, 219, 29);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -646,7 +646,7 @@
   .landing-page1280px-text24 {
     color: rgb(255, 255, 255);
     font-size: 24px;
-    box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+    text-shadow: 5px 5px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 120%;
@@ -659,7 +659,7 @@
   .landing-page1280px-text25 {
     color: rgb(254, 219, 29);
     font-size: 50px;
-    box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+    text-shadow: 10px 10px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -669,7 +669,7 @@
   .landing-page1280px-text29 {
     color: rgb(252, 213, 0);
     font-size: 80px;
-    box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+    text-shadow: 10px 10px rgb(0, 0, 0);
     font-style: normal;
     font-family: Poppins;
     font-weight: 900;
@@ -679,7 +679,7 @@
   .landing-page1280px-text30 {
     color: rgb(252, 213, 0);
     font-size: 80px;
-    box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+    text-shadow: 10px 10px rgb(0, 0, 0);
     font-style: normal;
     font-family: Poppins;
     font-weight: 900;
@@ -689,7 +689,7 @@
   .landing-page1280px-text31 {
     color: rgb(252, 213, 0);
     font-size: 80px;
-    box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+    text-shadow: 10px 10px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -698,7 +698,7 @@
   .landing-page1280px-text32 {
     color: rgb(252, 213, 0);
     font-size: 80px;
-    box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+    text-shadow: 10px 10px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -714,7 +714,7 @@
   .landing-page1280px-text {
     color: rgb(240, 152, 198);
     font-size: 80px;
-    box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+    text-shadow: -10px -10px rgb(254, 219, 29);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -763,7 +763,7 @@
   .landing-page1280px-text19 {
     color: rgb(240, 152, 198);
     font-size: 40px;
-    box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+    text-shadow: -10px -10px rgb(254, 219, 29);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -773,7 +773,7 @@
   .landing-page1280px-text20 {
     color: rgb(255, 255, 255);
     font-size: 16px;
-    box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+    text-shadow: 5px 5px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 120%;
@@ -786,7 +786,7 @@
   .landing-page1280px-text21 {
     color: rgb(240, 152, 198);
     font-size: 40px;
-    box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+    text-shadow: -10px -10px rgb(254, 219, 29);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -800,7 +800,7 @@
   .landing-page1280px-text22 {
     color: rgb(255, 255, 255);
     font-size: 16px;
-    box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+    text-shadow: 5px 5px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 120%;
@@ -809,7 +809,7 @@
   .landing-page1280px-text23 {
     color: rgb(240, 152, 198);
     font-size: 40px;
-    box-shadow: rgb(254, 219, 29) -10px -10px 0px 0px;
+    text-shadow: -10px -10px rgb(254, 219, 29);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -819,7 +819,7 @@
   .landing-page1280px-text24 {
     color: rgb(255, 255, 255);
     font-size: 16px;
-    box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+    text-shadow: 5px 5px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 120%;
@@ -832,7 +832,7 @@
   .landing-page1280px-text25 {
     color: rgb(254, 219, 29);
     font-size: 30px;
-    box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+    text-shadow: 10px 10px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -842,7 +842,7 @@
   .landing-page1280px-text29 {
     color: rgb(252, 213, 0);
     font-size: 40px;
-    box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+    text-shadow: 10px 10px rgb(0, 0, 0);
     font-style: normal;
     font-family: Poppins;
     font-weight: 900;
@@ -852,7 +852,7 @@
   .landing-page1280px-text30 {
     color: rgb(252, 213, 0);
     font-size: 40px;
-    box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+    text-shadow: 10px 10px rgb(0, 0, 0);
     font-style: normal;
     font-family: Poppins;
     font-weight: 900;
@@ -862,7 +862,7 @@
   .landing-page1280px-text31 {
     color: rgb(252, 213, 0);
     font-size: 40px;
-    box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+    text-shadow: 10px 10px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
@@ -871,7 +871,7 @@
   .landing-page1280px-text32 {
     color: rgb(252, 213, 0);
     font-size: 40px;
-    box-shadow: rgb(0, 0, 0) 10px 10px 0px 10px;
+    text-shadow: 10px 10px rgb(0, 0, 0);
     font-family: Poppins;
     font-weight: 900;
     line-height: 100%;
