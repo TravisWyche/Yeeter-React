@@ -15,7 +15,7 @@
   flex-shrink: 0;
   flex-direction: column;
   background-size: cover;
-  background-image: url("/external/6f8f855d-2695-4312-bfc9-9c49069a23c0-w7u-1500w.png");
+  background-image: url("/external/rainbow.gif");
 }
 .landing-page1280px-texth1 {
   gap: 10px;
@@ -250,7 +250,7 @@
   flex-shrink: 0;
   border-radius: 500px;
   background-size: cover;
-  background-image: url("/external/d6afb2ae-38ed-42c9-b540-6413e6717d31-a0w-500h.png");
+  background-image: url("/external/hotdog.gif");
 }
 .landing-page1280px-containersection1 {
   gap: 40px;
@@ -306,7 +306,7 @@
   flex-shrink: 0;
   border-radius: 500px;
   background-size: cover;
-  background-image: url("/external/6130f0fd-ad03-4781-ac60-43122e53f069-uk7k-500h.png");
+  background-image: url("/external/hotdog.gif");
 }
 .landing-page1280px-textp1 {
   gap: 10px;
@@ -406,7 +406,7 @@
   flex-shrink: 0;
   border-radius: 500px;
   background-size: cover;
-  background-image: url("/external/79a05248-1a5d-417c-bbcb-94abc32ae572-cqzhu-500h.png");
+  background-image: url("/external/hotdog.gif");
 }
 .landing-page1280px-texth33 {
   gap: 40px;
