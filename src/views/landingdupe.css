@@ -20,6 +20,7 @@
 }
 .landingdupe-text {
   color: rgba(240, 152, 198, 1);
+  text-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
   height: auto;
   font-size: 200px;
   align-self: stretch;
@@ -33,6 +34,7 @@
 }
 .landingdupe-text02 {
   color: rgb(240, 152, 198);
+  text-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
   height: auto;
   font-size: 96px;
   align-self: stretch;
@@ -47,6 +49,7 @@
 }
 .landingdupe-text03 {
   color: rgb(254, 219, 29);
+  text-shadow: 5px 5px black;
   height: auto;
   font-size: 48px;
   align-self: stretch;
@@ -68,7 +71,6 @@
   align-items: center;
   border-radius: 100px;
   flex-direction: column;
-  text-decoration: none;
   background-color: rgba(254, 219, 29, 1);
 }
 .landingdupe-button:hover {
@@ -96,7 +98,7 @@
   display: flex;
   padding: 50px;
   align-self: stretch;
-  box-shadow: -10px -10px 0px 0px rgba(254, 219, 29, 1) ;
+  box-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
   align-items: flex-start;
   border-radius: 100px;
   flex-direction: column;
@@ -104,6 +106,7 @@
 }
 .landingdupe-text05 {
   color: rgb(240, 152, 198);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 64px;
   align-self: stretch;
@@ -141,7 +144,7 @@
   display: flex;
   padding: 50px;
   align-self: stretch;
-  box-shadow: -10px -10px 0px 0px rgba(254, 219, 29, 1) ;
+  box-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
   align-items: flex-start;
   border-radius: 100px;
   flex-direction: column;
@@ -149,6 +152,7 @@
 }
 .landingdupe-text10 {
   color: rgb(240, 152, 198);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 64px;
   align-self: stretch;
@@ -206,7 +210,7 @@
   display: flex;
   padding: 50px;
   align-self: stretch;
-  box-shadow: -10px -10px 0px 0px rgba(254, 219, 29, 1) ;
+  box-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
   align-items: flex-start;
   border-radius: 100px;
   flex-direction: column;
@@ -214,6 +218,7 @@
 }
 .landingdupe-text18 {
   color: rgb(240, 152, 198);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 64px;
   align-self: stretch;
@@ -251,7 +256,7 @@
   display: flex;
   padding: 50px;
   align-self: stretch;
-  box-shadow: -10px -10px 0px 0px rgba(254, 219, 29, 1) ;
+  box-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
   align-items: flex-start;
   border-radius: 100px;
   flex-direction: column;
@@ -259,6 +264,7 @@
 }
 .landingdupe-text22 {
   color: rgb(240, 152, 198);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 64px;
   align-self: stretch;
@@ -296,7 +302,7 @@
   display: flex;
   padding: 50px;
   align-self: stretch;
-  box-shadow: -10px -10px 0px 0px rgba(254, 219, 29, 1) ;
+  box-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
   align-items: flex-start;
   border-radius: 100px;
   flex-direction: column;
@@ -304,6 +310,7 @@
 }
 .landingdupe-text26 {
   color: rgb(240, 152, 198);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 64px;
   align-self: stretch;
@@ -361,7 +368,7 @@
   display: flex;
   padding: 50px;
   align-self: stretch;
-  box-shadow: -10px -10px 0px 0px rgba(254, 219, 29, 1) ;
+  box-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
   align-items: flex-start;
   border-radius: 100px;
   flex-direction: column;
@@ -369,6 +376,7 @@
 }
 .landingdupe-text34 {
   color: rgb(240, 152, 198);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 64px;
   align-self: stretch;
@@ -426,7 +434,7 @@
   display: flex;
   padding: 50px;
   align-self: stretch;
-  box-shadow: -10px -10px 0px 0px rgba(254, 219, 29, 1) ;
+  box-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
   align-items: flex-start;
   border-radius: 100px;
   flex-direction: column;
@@ -434,6 +442,7 @@
 }
 .landingdupe-text42 {
   color: rgb(240, 152, 198);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 64px;
   align-self: stretch;
@@ -475,7 +484,7 @@
   display: flex;
   padding: 50px;
   align-self: stretch;
-  box-shadow: -10px -10px 0px 0px rgba(254, 219, 29, 1) ;
+  box-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
   align-items: flex-start;
   border-radius: 100px;
   flex-direction: column;
@@ -483,6 +492,7 @@
 }
 .landingdupe-text47 {
   color: rgba(240, 152, 198, 1);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 96px;
   align-self: stretch;
@@ -503,6 +513,7 @@
 }
 .landingdupe-text49 {
   color: rgba(240, 152, 198, 1);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 96px;
   align-self: stretch;
@@ -523,6 +534,7 @@
 }
 .landingdupe-text50 {
   color: rgba(240, 152, 198, 1);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 96px;
   align-self: stretch;
@@ -543,6 +555,7 @@
 }
 .landingdupe-text52 {
   color: rgba(240, 152, 198, 1);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 96px;
   align-self: stretch;
@@ -563,6 +576,7 @@
 }
 .landingdupe-text54 {
   color: rgba(240, 152, 198, 1);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 96px;
   align-self: stretch;
@@ -583,6 +597,7 @@
 }
 .landingdupe-text56 {
   color: rgba(240, 152, 198, 1);
+  text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
   height: auto;
   font-size: 96px;
   align-self: stretch;
@@ -607,6 +622,7 @@
   }
   .landingdupe-text02 {
     color: rgb(240, 152, 198);
+    text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
     font-size: 50px;
     font-family: Poppins;
     font-weight: 900;
@@ -670,6 +686,7 @@
   }
   .landingdupe-text49 {
     color: rgb(240, 152, 198);
+    text-shadow: -5px -5px rgba(254, 219, 29, 1), 5px 5px black;
     font-size: 40px;
     font-family: Poppins;
     font-weight: 900;
