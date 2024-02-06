@@ -8,7 +8,7 @@ const Landingdupe = (props) => {
   return (
     <div className="landingdupe-container">
       <Helmet>
-        <title>YEETER!</title>
+        <title>YEETER!!!</title>
       </Helmet>
       <div className="landingdupe-landingdupe">
         <span className="landingdupe-text">
@@ -20,9 +20,9 @@ const Landingdupe = (props) => {
         <span className="landingdupe-text03">
           Yeeter is The unruggable Crypto Crowdfunding Platform
         </span>
-        <button className="landingdupe-button">
+        <a href="https://yeet-haus.vercel.app/" className="landingdupe-button">
           <span className="landingdupe-text04">launch app</span>
-        </button>
+        </a>
         <div className="landingdupe-section1">
           <span className="landingdupe-text05">Welcome to Yeeter!</span>
           <span className="landingdupe-text06">
@@ -229,9 +229,11 @@ const Landingdupe = (props) => {
             className="landingdupe-text52"
           >
             <span>YEETER DAO</span>
-             </a>
+          </a>
           <a
             href="https://bootleggers.wtf/"
+            target="_blank"
+            rel="noreferrer noopener"
             className="landingdupe-text54"
           >
             <span>BOOTLEGGERS</span>
