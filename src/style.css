@@ -82,34 +82,11 @@
   display: flex !important;
   transform: none !important;
 }
-.Content {
-  font-size: 16px;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: 1.15;
-  text-transform: none;
-  text-decoration: none;
-}
-.P1 {
-  font-size: 16px;
+.P2 {
+  font-size: 12px;
   font-style: normal;
   font-family: Poppins;
   font-weight: 700px;
-  font-stretch: normal;
-}
-.Heading {
-  font-size: 32px;
-  font-family: Inter;
-  font-weight: 700;
-  line-height: 1.15;
-  text-transform: none;
-  text-decoration: none;
-}
-.H2 {
-  font-size: 24px;
-  font-style: normal;
-  font-family: Poppins;
-  font-weight: 900px;
   font-stretch: normal;
 }
 .P3 {
@@ -126,22 +103,8 @@
   font-weight: 900px;
   font-stretch: normal;
 }
-.H3 {
-  font-size: 20px;
-  font-style: normal;
-  font-family: Poppins;
-  font-weight: 900px;
-  font-stretch: normal;
-}
-.P2 {
-  font-size: 12px;
-  font-style: normal;
-  font-family: Poppins;
-  font-weight: 700px;
-  font-stretch: normal;
-}
-.EvenBiggerTitle {
-  font-size: 140px;
+.H1 {
+  font-size: 48px;
   font-style: normal;
   font-family: Poppins;
   font-weight: 900px;
@@ -154,8 +117,45 @@
   font-weight: 900px;
   font-stretch: normal;
 }
-.H1 {
-  font-size: 48px;
+.Heading {
+  font-size: 32px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.Content {
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.H3 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 900px;
+  font-stretch: normal;
+}
+.P1 {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 700px;
+  font-stretch: normal;
+}
+.H2 {
+  font-size: 24px;
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 900px;
+  font-stretch: normal;
+}
+.EvenBiggerTitle {
+  font-size: 140px;
   font-style: normal;
   font-family: Poppins;
   font-weight: 900px;
