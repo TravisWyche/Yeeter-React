@@ -49,7 +49,7 @@
 }
 .landingdupe-text03 {
   color: rgb(254, 219, 29);
-  text-shadow: -10px -10px rgba(254, 219, 29, 1), 10px 10px black;
+  text-shadow: 5px 5px black;
   height: auto;
   font-size: 48px;
   align-self: stretch;
