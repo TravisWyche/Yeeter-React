@@ -8,7 +8,7 @@ const Landingdupe = (props) => {
   return (
     <div className="landingdupe-container">
       <Helmet>
-        <title>exported project</title>
+        <title>YEETER!</title>
       </Helmet>
       <div className="landingdupe-landingdupe">
         <span className="landingdupe-text">
@@ -235,7 +235,7 @@ const Landingdupe = (props) => {
             className="landingdupe-text54"
           >
             <span>BOOTLEGGERS</span>
-          </span>
+          </a>
           <a
             href="https://daohaus.club/"
             target="_blank"
