@@ -229,9 +229,10 @@ const Landingdupe = (props) => {
             className="landingdupe-text52"
           >
             <span>YEETER DAO</span>
+             </a>
           <a
-              href="https://bootleggers.wtf/"
-              className="landingdupe-text54"
+            href="https://bootleggers.wtf/"
+            className="landingdupe-text54"
           >
             <span>BOOTLEGGERS</span>
           </span>
