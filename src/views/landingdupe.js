@@ -97,7 +97,7 @@ const Landingdupe = (props) => {
                 }}
               />
             </span>
-            <span>
+            <span className="landingdupe-text21">
               From DAOhaus&apos;s own fundraising success to RaidBrood&apos;s
               decentralized beer brewing, Yeeter has already empowered projects
               to achieve their goals with the backing of their communities. Your
@@ -216,28 +216,28 @@ const Landingdupe = (props) => {
             <span>FAQ</span>
           </a>
           <a href="http://yeet.haus/docs" className="landingdupe-text49">
-            <span>DOCS</span>
+            DOCS
           </a>
           <a
             href="https://discord.gg/rE33sawCMz"
-            className="landingdupe-text51"
+            className="landingdupe-text50"
           >
             <span>DISCORD</span>
           </a>
           <a
             href="https://admin.daohaus.club/#/molochv3/0x5/0xb7c9ff471731237e0139e120361fbc2efc0068ee"
-            className="landingdupe-text53"
+            className="landingdupe-text52"
           >
             <span>YEETER DAO</span>
           </a>
-          <span className="landingdupe-text55">
+          <span className="landingdupe-text54">
             <span>BOOTLEGGERS</span>
           </span>
           <a
             href="https://daohaus.club/"
             target="_blank"
             rel="noreferrer noopener"
-            className="landingdupe-text57"
+            className="landingdupe-text56"
           >
             <span>DAOHAUS</span>
           </a>
