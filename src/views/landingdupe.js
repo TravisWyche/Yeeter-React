@@ -21,6 +21,7 @@ const Landingdupe = (props) => {
           Yeeter is The unruggable Crypto Crowdfunding Platform
         </span>
         <button className="landingdupe-button">
+          <a href="https://yeet-haus.vercel.app/">
           <span className="landingdupe-text04">launch app</span>
         </button>
         <div className="landingdupe-section1">
